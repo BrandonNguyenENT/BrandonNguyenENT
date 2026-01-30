@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Brandon Nguyen
-- 👀 I’m interested in Machine Learning/Aritificial Intelligence, Embedded Systems, and Computer Networks
-- 🌱 Programming Languages: Python, C/C++, MATLAB, Verilog HDL, MIPS Assembly
-- 💞️ I am currently seeking internships or entry-level opportunities and industry experience
+- 👋🏻 Hi, I’m Brandon Nguyen
+- 🤖 I’m interested in Machine Learning/Aritificial Intelligence, Embedded Systems, and Computer Networks
+- 💻 Programming Languages: Python, C/C++, MATLAB, Verilog HDL, MIPS Assembly
+- 🛠️ I am currently seeking internships or entry-level opportunities and industry experience
 - 🎓 I am working towards my B.S. in Computer Engineering at San Diego State University
