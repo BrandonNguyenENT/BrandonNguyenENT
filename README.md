@@ -11,5 +11,7 @@
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=BrandonNguyenENT&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BrandonNguyenENT&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonNguyenENT&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonNguyenENT&theme=shadow_blue&hide_border=false)](https://github.com/BrandonNguyenENT/github-readme-stats&theme=shadow_blue&hide_border=false)
