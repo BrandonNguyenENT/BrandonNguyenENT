@@ -1,9 +1,9 @@
 # About Me
 - 👋🏻 Hi, I’m Brandon Nguyen
-- 🤖 I’m interested in Machine Learning/Aritificial Intelligence, Embedded Systems, and Computer Networks
+- 🤖 I’m interested in Machine Learning/Aritificial Intelligence, Embedded Systems, Systems Engineering, and Software Development
 - 💻 Programming Languages: Python, C/C++, MATLAB, Verilog HDL, MIPS Assembly
 - 🛠️ I am currently seeking internships or entry-level opportunities and industry experience
-- 🎓 I am working towards my B.S. in Computer Engineering at San Diego State University
+- 🎓 B.S. in Computer Engineering at San Diego State University (CO' 2026)
 
 # Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
